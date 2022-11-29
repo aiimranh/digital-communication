@@ -5,4 +5,4 @@
 * AWGN channel (with/without noise)
 * Modulated Phase Shifted Waveform
 
-<h1> OFDM (Orthogonal Frequency Division Multiplexing) Simulation </h1>
+<h1> OFDM Simulation </h1>
